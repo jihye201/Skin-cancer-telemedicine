@@ -1,4 +1,4 @@
-# Skin-cancer-telemedicine
+# 👨‍⚕️ 🤖 Skin-cancer-telemedicine
 
 ## 딥러닝을 이용한 피부암 진단 원격 의료 서비스
 
@@ -25,3 +25,12 @@
 ## 프로젝트 수행 결과 
 
 <img width="1108" alt="스크린샷 2022-10-31 오후 3 13 27" src="https://user-images.githubusercontent.com/102234250/198943176-81bd3dfc-d82c-4174-9740-976d5f413915.png">
+<img width="865" alt="스크린샷 2022-10-31 오후 3 38 24" src="https://user-images.githubusercontent.com/102234250/198946620-863855de-d1fa-4554-b235-4cf6962e3f2a.png">
+
+## 사이트 시연 영상 및 발표 영상
+
+- 시연 영상
+https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294-bc15-9fb1d9ef8e9f.mp4
+
+- 발표영상
+https://youtu.be/rfUzJfn5rwQ
