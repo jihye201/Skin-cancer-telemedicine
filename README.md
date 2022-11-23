@@ -34,3 +34,5 @@ https://user-images.githubusercontent.com/102234250/198946771-dd125da1-af78-4294
 
 - 발표영상
 https://youtu.be/rfUzJfn5rwQ
+
+## 데이터 시각화 과정, 수집 과정 분석 과정 추가 하시오~
